@@ -1,4 +1,19 @@
 .navbar {
-   text-align: center;
-   background: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white !important;
+}
+.navbar li {
+    padding: 10px;
+    float: left;
+    list-style-type: none;
+}
+.navbar a {
+    color: black !important;
+}
+.navbar a:hover {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
 }
