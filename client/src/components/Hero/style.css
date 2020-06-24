@@ -2,6 +2,15 @@
     height: 500px;
     background: #dffc03;
 }
-.hero img {
-    height: 100%;
+.hero-img {
+    height: 500px;
+}
+.row {
+    margin: 0;
+}
+.hero-text {
+    margin-top: 125px;
+}
+.hero h2, h3, h4 {
+    font-family: 'Roboto Mono', monospace;
 }
