@@ -3,12 +3,14 @@ import './style.css';
 
 function Contact() {
     return (
-        <div className="contact">
-            <div class="contact-blurb">
-                <p>We are currently scheduling consultations.</p>
-            </div>
+        <div>
+        <section class="contact-blurb">
+                We are currently scheduling consultations.
+        </section>
+        <section className="contact">
+            
             <div class="row">
-                <div class="col-md-6">
+                <div class="contact-form col-md-6">
                     <div className="contact-title">
                         <h3>Send a Message</h3>
                     </div>
@@ -39,7 +41,7 @@ function Contact() {
                                 <textarea class="uk-textarea" rows="5"></textarea>
                             </div>
 
-                            <button class="uk-button uk-button-default" disabled>Send</button>
+                            <button class="send-btn uk-button uk-button-default">Send</button>
 
                         </fieldset>
                     </form>
@@ -59,6 +61,7 @@ function Contact() {
             </div>
 
 
+        </section>
         </div>
     )
 };

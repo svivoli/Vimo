@@ -1,9 +1,16 @@
 .contact {
-    margin: 50px 5% 50px 5%;
+    padding: 50px 5% 50px 5%;
 }
 .contact-blurb {
-    margin-bottom: 50px;
+    padding-top: 35px;
+    padding-bottom: 35px;
     text-align: center;
+    background: #dffc03;
+}
+.contact-form {
+    background: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .contact-title {
     text-align: center;
@@ -11,4 +18,7 @@
 .email {
     margin-top: 75px;
     text-align: center;
+}
+.send-btn {
+    background-color: lightgray !important;
 }
