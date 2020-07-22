@@ -5,6 +5,9 @@
 .about h3 {
     font-family: 'Roboto Mono', monospace;
 }
+.mission {
+    margin-bottom: 40px;
+}
 .headshot {
     height: 75px;
 }
