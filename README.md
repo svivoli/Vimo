@@ -1,68 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Vimo
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Website for personal website building business started by Jennifer Kim and myself. Here users can learn about the services we offer, view our credentials, and contact us to schedule a consultation. We chose a simple design to highlight our own brand, which was inspired by industrialism and manufacturing lines, because we are driven by the importance of showcasing a company's brand on their website.
 
-### `npm start`
+## About the Company
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Vimo was started as a side project after the completion of the University of Oregon's Coding Boot Camp, in an effort to build a personal brand and company. Our dream is to make websites for companies that have strong brands and wish to create a unique experience for their users. We also dream of extending our services to offer assistance with branding, i.e. logo design, slogan creation, color pallete redesign, social media marketing, professional development, and more. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Modules/Technologies
 
-### `npm test`
+- React
+- Express
+- Node
+- Bootstrap
+- UIKit
+- Antd
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Website Components
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Navbar
+    - logo, links
+2. Banner
+    - logo, slogan, text
+3. About section
+    - Mission statement
+    - Who we are
+    - What we offer - description of services
+4. Credentials section
+    - text, linked icons
+5. Contact section
+    - Message form
+    - Linked email information
+    
