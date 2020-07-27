@@ -3,7 +3,7 @@ import './style.css';
 
 function Credentials() {
     return (
-        <div className="credentials">
+        <section id="credentials">
             <div className="row">
                 <div className="col-md-8">
                     <div className="cred-text">
@@ -23,7 +23,7 @@ function Credentials() {
                     <img src={require('../../img/diagonal_mute.png')}></img>
                 </div>
             </div>
-        </div>
+        </section>
     )
 };
 

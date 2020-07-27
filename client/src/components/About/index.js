@@ -3,7 +3,7 @@ import './style.css';
 
 function About() {
     return (
-        <div className="about">
+        <section id="about">
             <div className="mission">
                 <h3>Mission Statement</h3>
                 <p>To help indivuals and companies build their brands through design forward websites.</p>
@@ -23,7 +23,7 @@ function About() {
                 <p>Rebuilding/restructuring on existing websites.</p>
                 <p>Continued maintence after project completion.</p>
             </div>
-        </div>
+        </section>
     )
 };
 

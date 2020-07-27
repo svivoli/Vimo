@@ -3,11 +3,11 @@ import './style.css';
 
 function Contact() {
     return (
-        <div>
+        <section id="contact">
         <section class="contact-blurb">
                 We are currently scheduling consultations.
         </section>
-        <section className="contact">
+        <section className="message">
             
             <div class="row">
                 <div class="contact-form col-md-6">
@@ -50,9 +50,9 @@ function Contact() {
                     <div className="email">
                         <h3>Or Email Us Directly</h3>
                         <h4>Jennifer Kim</h4>
-                        <a href="mailto:jenniferkim.businessonly@gmail.com">jenniferkim.businessonly@gmail.com</a>
+                        <a className="email-address" href="mailto:jenniferkim.businessonly@gmail.com">jenniferkim.businessonly@gmail.com</a>
                         <h4>Sarah Vivoli</h4>
-                        <a href="mailto:snvivoli@gmail.com">snvivoli@gmail.com</a>
+                        <a className="email-address" href="mailto:snvivoli@gmail.com">snvivoli@gmail.com</a>
                         <br></br><br></br>
                         <p>Kindly email both of us, or one of us with the other cc'd.</p>
                         <p>We Look forward to hearing from you.</p>
@@ -62,7 +62,7 @@ function Contact() {
 
 
         </section>
-        </div>
+        </section>
     )
 };
 

@@ -1,4 +1,4 @@
-.contact {
+.message {
     padding: 50px 5% 50px 5%;
 }
 .contact-blurb {
@@ -18,6 +18,15 @@
 .email {
     margin-top: 75px;
     text-align: center;
+}
+.email-address {
+    font-style: italic;
+    color: gray;
+}
+.email-address:hover {
+    text-decoration: none;
+    font-style: inherit;
+    color: black;
 }
 .send-btn {
     background-color: lightgray !important;
