@@ -27,9 +27,10 @@ Vimo was started as a side project after the completion of the University of Ore
 3. About section
     - Mission statement
     - Who we are
+        - images, hover transform effect
     - What we offer - description of services
 4. Credentials section
-    - text, linked icons
+    - linked icons with hover transform effect
 5. Contact section
     - Message form
     - Linked email information
