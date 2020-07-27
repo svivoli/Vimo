@@ -21,6 +21,7 @@ Vimo was started as a side project after the completion of the University of Ore
 
 1. Navbar
     - logo, links
+    - Scrollspy
 2. Banner
     - logo, slogan, text
 3. About section
