@@ -13,3 +13,7 @@
     padding-right: 15px;
     height: 125px;
 }
+.headshot:hover {
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
